@@ -1,0 +1,11 @@
+header { background-image: url(../../images/siege-blog-header-template.best-time-to-send-an-email.hero_.1a-1024x683.webp); background-size: cover; background-position: center;}
+.inner-div {background-color: #24353fa2;}
+.inner-div {box-shadow: 2px 1px 50px rgba(0, 0, 0, 0.671); }
+.inner-div input {background-color: #24353F;  }
+.inner-div input:focus-visible{background-color: #24353F; box-shadow: 1px 1px; }
+.inner-div a {color: white; text-decoration: none;}
+.inner-div .heading {color: #17A2B8;}
+.inner-div input::placeholder {color: white; opacity: 0.5;}
+
+
+.intro {background-color:darkslategrey; }
